@@ -41,27 +41,27 @@ Scikit-learn : Machine learning model + evaluation metrics
 
 1. Load and preprocess data
 
-Parse date columns
+  - Parse date columns
 
-Aggregate daily sales
+  - Aggregate daily sales
 
-Sort chronologically
+  - Sort chronologically
 
 2. Feature engineering
    
-Create lagged sales features for previous 3 days (lag_1, lag_2, lag_3)
+  - Create lagged sales features for previous 3 days (lag_1, lag_2, lag_3)
 
-4. Model training
+3. Model training
 
-Train/test split without shuffling (to preserve time order)
+  - Train/test split without shuffling (to preserve time order)
 
-Fit a Linear Regression model
+  - Fit a Linear Regression model
 
 4. Evaluation
 
-Root Mean Squared Error (RMSE)
+  - Root Mean Squared Error (RMSE)
 
-R² score
+  - R² score
 
 Visual comparison: Actual vs. Predicted sales
 
