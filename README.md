@@ -64,8 +64,7 @@ Visual comparison: Actual vs. Predicted sales
 
 📈 Results
 
-Metric	      Value (Example Output)
-RMSE	           512.45
-R² Score	       92.30%
+RMSE : 512.45
+R² Score : 92.30%
 
 🎯 The model achieves over 90% R², indicating strong predictive power.
