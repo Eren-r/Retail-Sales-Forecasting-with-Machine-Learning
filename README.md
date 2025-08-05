@@ -27,12 +27,15 @@ Visualize actual vs. predicted sales to assess model accuracy
 
 🛠️ Technologies Used
 
-Tool	                 Purpose
-Python	          Core programming language
-Pandas	          Data manipulation
-NumPy	            Numerical operations
-Matplotlib	      Data visualization
-Scikit-learn	    Machine learning model + evaluation metrics
+Python : Core programming language
+
+Pandas : Data manipulation
+
+NumPy : Numerical operations
+
+Matplotlib : Data visualization
+
+Scikit-learn : Machine learning model + evaluation metrics
 
 🔁 Workflow
 
@@ -65,6 +68,7 @@ Visual comparison: Actual vs. Predicted sales
 📈 Results
 
 RMSE : 512.45
+
 R² Score : 92.30%
 
 🎯 The model achieves over 90% R², indicating strong predictive power.
